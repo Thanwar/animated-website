@@ -24,6 +24,16 @@ function App() {
         <CssBaseline />
         <Header />
         <Places />
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
         <div id="footer">
           <h3>&copy; THANWAR 2021</h3>
         </div>
